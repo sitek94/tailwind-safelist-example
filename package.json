@@ -1,6 +1,7 @@
 {
   "name": "tailwindcss-template",
   "description": "Create React App TypeScript template with TailwindCSS installed.",
+  "homepage": "https://sitek94.github.io/tailwind-safelist-example",
   "author": {
     "email": "msitkowski94@gmail.com",
     "name": "Maciek Sitkowski",
@@ -27,6 +28,7 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
+    "build:local": "PUBLIC_URL=/ npm run build",
     "test": "craco test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
