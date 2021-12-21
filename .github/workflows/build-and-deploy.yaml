@@ -1,4 +1,4 @@
-name: 🚀 Deploy
+name: 🏗️ Build and Deploy
 
 on:
   workflow_dispatch:
@@ -24,9 +24,6 @@ jobs:
 
       - name: 📥 Install Dependencies
         uses: bahmutov/npm-install@v1
-
-      - name: 🔬 Lint
-        run: npm run lint
 
       - name: 🛠️ Build project
         run: npm run build
