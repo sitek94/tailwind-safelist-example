@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tailwind-safelist-example/static/css/main.baad01de.chunk.css",
+    "main.js": "/tailwind-safelist-example/static/js/main.ca752a5e.chunk.js",
+    "main.js.map": "/tailwind-safelist-example/static/js/main.ca752a5e.chunk.js.map",
+    "runtime-main.js": "/tailwind-safelist-example/static/js/runtime-main.05ed31fe.js",
+    "runtime-main.js.map": "/tailwind-safelist-example/static/js/runtime-main.05ed31fe.js.map",
+    "static/js/2.ede59fe3.chunk.js": "/tailwind-safelist-example/static/js/2.ede59fe3.chunk.js",
+    "static/js/2.ede59fe3.chunk.js.map": "/tailwind-safelist-example/static/js/2.ede59fe3.chunk.js.map",
+    "index.html": "/tailwind-safelist-example/index.html",
+    "static/css/main.baad01de.chunk.css.map": "/tailwind-safelist-example/static/css/main.baad01de.chunk.css.map",
+    "static/js/2.ede59fe3.chunk.js.LICENSE.txt": "/tailwind-safelist-example/static/js/2.ede59fe3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05ed31fe.js",
+    "static/js/2.ede59fe3.chunk.js",
+    "static/css/main.baad01de.chunk.css",
+    "static/js/main.ca752a5e.chunk.js"
+  ]
+}
